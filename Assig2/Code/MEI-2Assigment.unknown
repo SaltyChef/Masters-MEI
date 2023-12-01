@@ -1,0 +1,64 @@
+Variaveis independentes  ----> 	Uma variável independente é uma variável que representa uma quantidade que está a ser manipulada numa experiência.
+				Habitualmente, é a variável usada para representar a variável independente de uma função.
+				
+				
+	Para o nosso trabalho temos como variaveis independentes :
+		- Confianca dos drones
+		- Popularidade do drone (o quao bom é a identificar objetos)
+		- Complexidade do código é mais importante do que a linguagem
+		- Número de linhas de código
+		- 
+		- 
+		- 
+		- 
+		- o inspetor (pouco , médio, Experiente)
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+Variaveis dependentes  ----> 	Uma variável dependente representa uma quantidade cujo valor depende da forma como a variável independente é manipulada.
+				Habitualmente, é a variável usada para representar a variável dependente de uma função. 
+				
+	Para o nosso trabalho temos como variaveis independentes :
+		- numero de objetos identifcados
+		-(percentagens de bugs e percentagem de Falsos positivos)
+		
+		
+		
+		
+[11:47, 16/11/2023] Rosario Mestrada: . Variáveis dependentes
+[11:47, 16/11/2023] Rosario Mestrada: (percentagens de bugs e percentagem de Falsos positivos)
+
+[11:48, 16/11/2023] Rosario Mestrada: 2. Variáveis Independentes (TPC)
+[11:49, 16/11/2023] Rosario Mestrada: Definir níveis ( exemplo: n vamos estudar o facto de estarmos a fazer em python , pq temos tudo em python)
+[11:50, 16/11/2023] Rosario Mestrada: 
+[11:52, 16/11/2023] Rosario Mestrada: 
+[11:52, 16/11/2023] Rosario Mestrada: Complexidade assicromática
+[11:52, 16/11/2023] Rosario Mestrada: Número de linhas de código e Complexidade assicromática fazíamos a festa
+[11:53, 16/11/2023] Rosario Mestrada: + variáveis: 
+[11:53, 16/11/2023] Rosario Mestrada: 
+[11:56, 16/11/2023] Rosario Mestrada: Para a semana, ter as variáveis dependentes (MUST)
+[11:57, 16/11/2023] Rosario Mestrada: (ter um colega que analise o código e deve anotar os bugs que acha que tem)
+[12:06, 16/11/2023] Rosario Mestrada: 2. Fazer o protocolo ( todo o procedimento da experiencia)
+[12:07, 16/11/2023] Rosario Mestrada: Pode ser um documento separado do relatório. Ou pode estar no relatório
+[12:08, 16/11/2023] Rosario Mestrada: A experiencia deve ser credivel
+[12:08, 16/11/2023] Rosario Mestrada: QUe é descrita no protocolo
+[12:10, 16/11/2023] Rosario Mestrada: Variáveis independentes: Programas
